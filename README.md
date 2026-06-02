@@ -31,3 +31,4 @@ cp .env.example .env
 ```
 
 4. Ejecuta el notebook principal:
+src/Canal_Cero_Agent.ipynb
