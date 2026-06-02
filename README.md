@@ -6,11 +6,13 @@
 
 ## Autores
 
-| Nombre | Universidad | Programa |
-|--------|-------------|----------|
-| Bastián Muhaded Ibar | Universidad Adolfo Ibáñez | Programa de IA |
-| Rodrigo Saez Perez | Universidad Adolfo Ibáñez | Programa de IA |
-| Daniela de Quevedo Rodríguez | Universidad Adolfo Ibáñez | Programa de IA |
+**Universidad Adolfo Ibáñez · Magíster en IA**
+
+| Nombre |
+|--------|
+| Bastián Muhaded Ibar |
+| Rodrigo Saez Perez |
+| Daniela de Quevedo Rodríguez |
 
 ---
 
@@ -54,7 +56,7 @@ Respuesta fundamentada en los documentos
              ↓
 ┌─────────────────────────────────────────────────────┐
 │              AGENTE FISCALIZADOR                    │
-│   Valida fuentes · Detecta PII · Verifica calidad  │
+│   Valida fuentes · Detecta PII · Verifica calidad   │
 └──────────────────────┬──────────────────────────────┘
                        ↓
 ┌─────────────────────────────────────────────────────┐
